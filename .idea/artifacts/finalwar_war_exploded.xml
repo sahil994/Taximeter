@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="finalwar:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/finalwar_exploded</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="taximeter:war exploded" />
+    </root>
+  </artifact>
+</component>

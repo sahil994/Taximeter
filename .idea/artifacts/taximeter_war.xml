@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="taximeter:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="taximeter-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="taximeter:war exploded" />
-    </root>
-  </artifact>
-</component>
